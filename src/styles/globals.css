@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: url('Home.module.css') no-repeat center center fixed;
+  background-size: cover;
+  
+}
